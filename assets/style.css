@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+* {
+    font-family: Montserrat;
+    font-weight: 800;
+}
+
+.dropdownMenu1 {
+    margin-top: 22px;
+}
+.dropdownMenu1 {
+    padding: 8px;
+    border: none;
+    background-color: #fff;
+}
+
+#phone-number {
+    margin-top: 14px;
+}
+#client-and-form {
+    background-color: #fff;
+}
+.signup-form-container h1,
+.signup-form-container small,
+.signup-form-container div{
+    padding-top: 5px;
+}
+form input,
+form select,
+form button {
+    padding: 8px;
+}
+#trustedby {
+    margin: 20px 0px 10px;
+    padding: 20px 0px 10px;
+    background-color: #EEEEEE;
+    border-radius: 12px;
+}
+#trustedby div {
+    padding: 8px;
+}
+.signup-foot {
+    background: url(assets/signup-bg.jpg), #004448;
+    margin: -60px 0px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:  100%;
+    padding: 30px;
+    z-index: -1;
+}
+.text-white {
+    color: #fff;
+    margin: 100px 0px 60px;
+    padding: 30px 0px 20px;
+}
+.signup-foot div img {
+    margin: 90px 0px 50px;
+    padding: 15px 0px 10px;
+}
